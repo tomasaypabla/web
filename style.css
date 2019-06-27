@@ -1,0 +1,99 @@
+
+
+body 
+{
+    background-color: rgb(238, 248, 97) !important;
+
+}
+
+.titulo
+{
+    font-size: 5em !important;
+    font-family:stencil std;
+    text-align: center;
+} 
+.cabezera
+{
+    background-color: rgb(219, 70, 95) !important;
+    border:  rgb(219, 70, 95);
+    height: 175px;
+    padding-top: 25px;
+}
+
+.llama
+{
+    color: rgb(59, 230, 230);
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.carousel
+ {
+width: auto;
+margin: 0auto;
+text-align: center;
+margin: 100px;
+}
+
+
+#foto1
+{
+    width: 260px;
+    height:250px;
+}
+
+
+ #foto2 
+ {
+    width:260px;
+    height: 250px
+}
+
+#foto3
+{
+    width: 260px;
+    height: 250px;
+}
+
+#foto4
+{
+    width: 257px;
+    height: 250px
+}
+
+#foto5
+{
+    widows: 257px;
+    height: 250px
+}
+
+.contacta
+{
+    margin-left: 50px;
+}
+
+.tartag
+{
+    background-color: rgb(238, 248, 97) !important;
+    text-align: center;
+}
+
+.bizcocho
+{
+    font-size: 5em
+}
+
+.casero
+{
+    font-size: 1.5em
+}
+
+.obleas
+{
+    height: 500px;
+    width: 600px
+}
+
+
+
